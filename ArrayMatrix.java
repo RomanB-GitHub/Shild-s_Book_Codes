@@ -11,9 +11,9 @@ public class ArrayMatrix {
         };
         int i, j;
         for (i = 0; i < 4; i++) {
-            for(  j = 0;j < 4; j++){
+            for (j = 0; j < 4; j++) {
 
-                System.out.print(matrixArrey[i][j]+" ")  ;
+                System.out.print(matrixArrey[i][j] + " ");
 
             }
             System.out.println();
