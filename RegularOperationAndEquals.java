@@ -1,7 +1,7 @@
 /*
     Демонстрация операций с присвоением
  */
-public class OperationPlusEquals {
+public class RegularOperationAndEquals {
 
     public static void main(String[] args) {
         int a = 1;
