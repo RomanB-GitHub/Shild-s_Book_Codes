@@ -1,4 +1,4 @@
-public class Dinamic_Inicialization {
+public class DinamicInicialization {
     public static void main(String[] args) {
 // узнаем гипотенузу прямоугольного треугольника
         double a = 3.0, b = 4.0;
