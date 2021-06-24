@@ -1,4 +1,4 @@
-package classes.parallelepiped3;
+package classes.methodsAndvariables.parallelepiped3;
 
 public class BoxDemo3 {
     public static void main(String[] args) {

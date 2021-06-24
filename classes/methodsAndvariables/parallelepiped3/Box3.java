@@ -1,4 +1,4 @@
-package classes.parallelepiped3;
+package classes.methodsAndvariables.parallelepiped3;
 
 public class Box3 {
     double width;

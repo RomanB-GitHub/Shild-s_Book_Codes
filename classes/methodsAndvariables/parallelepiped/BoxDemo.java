@@ -1,4 +1,4 @@
-package classes.parallelepiped;
+package classes.methodsAndvariables.parallelepiped;
 
 // в этом классе обьявляется обьект типа BOX
 public class BoxDemo {

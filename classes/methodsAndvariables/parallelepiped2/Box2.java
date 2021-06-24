@@ -1,4 +1,4 @@
-package classes.parallelepiped2;
+package classes.methodsAndvariables.parallelepiped2;
 
 public class Box2 {
     double width;

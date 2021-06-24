@@ -1,4 +1,4 @@
-package classes.parallelepiped2;
+package classes.methodsAndvariables.parallelepiped2;
 
 public class BoxDemo2 {
     public static void main(String[] args) {

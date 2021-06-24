@@ -1,4 +1,4 @@
-package classes.parallelepiped;
+package classes.methodsAndvariables.parallelepiped;
 
 //Программа, использующая класс Вох
 //Присвоить исходному файлу имя BoxDemo.java
