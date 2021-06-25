@@ -1,4 +1,4 @@
-package classes.stack;
+package classes.stackStorage;
 
 public class Stack {
     int[] stck = new int[10];

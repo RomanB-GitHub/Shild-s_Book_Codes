@@ -1,4 +1,4 @@
-package classes.stack;
+package classes.stackStorage;
 
 /*
     В этом классе определяется целочисленный стек
