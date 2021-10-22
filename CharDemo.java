@@ -1,11 +1,15 @@
-public class CharDemo {
+public class CharDemo2 {
 
     public static void main(String[] args) {
 
-        char x, y;
-        x = 88;
-        y = 'Y';
+       char ch1;
+       ch1 = 'x';
 
-        System.out.println( "Литерал \"х\" будет : " + x + "\nЛитерал \"у\" будет : "+ y );
+        System.out.println("ch1 содержит " + ch1);
+
+        //увеличить на еденицу значение переменной ch1
+        ch1++;
+
+        System.out.println("ch1  теперь содержит : " + ch1);
     }
 }
