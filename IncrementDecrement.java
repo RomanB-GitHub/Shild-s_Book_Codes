@@ -6,6 +6,7 @@ public class IncrementDecrement {
         int a = 1;
         int b = 2;
         int c, d;
+
         c = ++b;
         d = a++;
         c++;
