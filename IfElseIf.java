@@ -4,7 +4,8 @@
 public class IfElseIf {
 
   public static void main(String args[]) {
-    int month = 4; // april
+    int month = 13; // april
+
     String season;
 
     if (month == 12 || month == 1 || month == 2) {
@@ -16,7 +17,7 @@ public class IfElseIf {
     } else if (month == 9 || month == 10 || month == 11) {
       season = "fall";
     } else {
-      season = " incorrect month";
+      season = "incorrect";
     }
 
     System.out.println("April it is " + season + " month.");
