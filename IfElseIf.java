@@ -4,7 +4,7 @@
 public class IfElseIf {
 
   public static void main(String args[]) {
-    int month = 13; // april
+    int month = 4; // april
 
     String season;
 
