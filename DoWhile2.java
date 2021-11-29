@@ -42,7 +42,7 @@ public class DoWhile2 {
                 System.out.println("while (условие) оператор;");
                 break;
             case '4':
-                System.out.println("do-while\n");
+                System.out.println("do-wh2ile\n");
                 System.out.println("do {");
                 System.out.println("   оператор;");
                 System.out.println(") while(условие);");
