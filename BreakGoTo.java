@@ -3,7 +3,7 @@
 //формы оператора goto
 
 
-public class Break {
+public class BreakGoTo {
     public static void main(String[] args) {
         boolean t = true;
 
