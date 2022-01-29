@@ -1,5 +1,6 @@
 // Методы которые отличаются сигнатурами считаются
 // перегружаемыми, а не переопределенными!!!
+
 public class OverloadA {
 
   int i, j;
@@ -8,7 +9,6 @@ public class OverloadA {
     i = a;
     j = b;
   }
-
   //вывести содержимое переменной
   void show() {
     System.out.println("i and j : " + i + " " + j);
@@ -27,13 +27,13 @@ class OverloadB extends OverloadA {
   void show(String msg) {
     System.out.println(msg + k);
   }
+
 }
 
 class OverloadAB {
-
   public static void main(String[] args) {
     OverloadB loadB = new OverloadB(6, 7, 8);
-    loadB.show("This is k = ");//вызов метода show() из класса OverloadB
-    loadB.show();//вызов метода show() из класса OverloadA
+    loadB.show("This is k = ");  //вызов метода show() из класса OverloadB
+    loadB.show();                     //вызов метода show() из класса OverloadA
   }
 }
