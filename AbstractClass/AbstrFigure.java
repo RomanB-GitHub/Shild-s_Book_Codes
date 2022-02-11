@@ -17,7 +17,7 @@ abstract class AbstrFigure {
 
 class AbstrRegtangle extends AbstrFigure {
 
-  public AbstrRegtangle(double a, double b) {
+  public AbstrRegtangle(double a, double b) { 
     super(a, b);
   }
 
