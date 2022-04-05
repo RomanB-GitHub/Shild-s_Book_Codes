@@ -14,7 +14,7 @@ public class HandleError {
         c = r.nextInt();
         a = 12345 / (b / c);
       } catch (ArithmeticException e) {
-        System.out.println("Деление на нуль!");
+        System.out.println("Исключение : " + e);
         a = 0; // присвоить нуль и продолжить работу!
       }
       System.out.println("a: " + a);
